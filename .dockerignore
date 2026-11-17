@@ -1,0 +1,6 @@
+.venv
+.uv-cache
+.git
+.idea
+__pycache__
+*.pyc
